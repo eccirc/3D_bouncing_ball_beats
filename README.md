@@ -9,7 +9,7 @@ See example on vimeo: https://vimeo.com/user65273243/review/310777141/7eb5999aca
 
 Written on linux with Qt creator
 
-#compile instructions
+**COMPILE INSTRUCTIONS**
 
 To run this program, you will need to install open frameworks (see above)
 
